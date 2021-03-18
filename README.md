@@ -1,4 +1,4 @@
- h1 align="center">👋 Olá, Sou o Daniel! Desenvolvedor 👨‍💻</h1>
+👋 Olá, Sou o Daniel! Desenvolvedor 👨‍💻
 
 🎓 Estudante de Computação - Universidade Estácio
 🔭 Atualmente, estou trabalhando para ser um desenvolvedor IOS e Android
