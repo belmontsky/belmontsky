@@ -1,4 +1,4 @@
-### He is What I'm Working On! 👋
+ 👋 Olá, Sou o Daniel! Desenvolvedor 👨‍💻
 
 🎓 Estudante de Computação - Universidade Estácio
 🔭 Atualmente, estou trabalhando para ser um desenvolvedor IOS e JavaScript
