@@ -10,3 +10,5 @@
 
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=belmontsky&show_icons=true&theme=radical)
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=belmontsky)](https://github.com/anuraghazra/github-readme-stats)
