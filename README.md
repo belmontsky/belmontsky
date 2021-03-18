@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Olá <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> 
-  <br> Sou o Daniel! Desenvolvedor:computer:<br>
+  <br> Sou o Daniel! Desenvolvedor 👨‍💻<br>
 
 🎓 Estudante de Computação - Universidade Estácio
 🔭 Atualmente, estou trabalhando para ser um desenvolvedor IOS e Android
