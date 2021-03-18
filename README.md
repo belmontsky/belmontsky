@@ -7,3 +7,6 @@
 📫 Como entrar em contato comigo: através do e-mail ferkusanagi@gmail.com
 ⚡ Curiosidade: Gosto de jogar Magic 🃏 e de se reunir com a família 
 -->
+
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=belmontsky&show_icons=true&theme=radical)
