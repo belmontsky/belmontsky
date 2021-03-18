@@ -6,10 +6,11 @@
 🤔 Estou procurando ajuda na plataforma Windows e Android
 📫 Como entrar em contato comigo: através do e-mail ferkusanagi@gmail.com
 ⚡ Curiosidade: Gosto de jogar Magic 🃏 e de se reunir com a família 
--->
-belmontsky.vercel.app
+
+
+
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="belmontsky Spotify Playing" width="350" />=?hide](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=belmontsky&show_icons=true&theme=radical)
