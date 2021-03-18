@@ -18,3 +18,7 @@
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=belmontsky&show_icons=true&theme=radical)
 
 <br />
+
+Programming Languages:
+
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
