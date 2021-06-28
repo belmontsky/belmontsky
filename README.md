@@ -4,7 +4,7 @@
   <br> Sou o Daniel Fernando! Desenvolvedor Desktop 👨‍💻<br>
 
 🎓 Estudante de Computação - Universidade Estácio
-🔭 No momento trabalho com SQL Server, Delphi
+🔭 No momento trabalho com SQL Server e Delphi
 📚 Atualmente, estou aprendendo JavaScript, React.js e Node.js
 📫 Como entrar em contato comigo: através do e-mail ferkusanagi@gmail.com
 ⚡ Curiosidade: Gosto de jogar Magic 🃏 e de se reunir com a família 
