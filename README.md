@@ -4,9 +4,8 @@
   <br> Sou o Daniel Fernando! Desenvolvedor Desktop 👨‍💻<br>
 
 🎓 Estudante de Computação - Universidade Estácio
-🔭 Atualmente, estou trabalhando para ser um desenvolvedor IOS e Android
+🔭 No momento trabalho com SQL Server, Delphi
 📚 Atualmente, estou aprendendo JavaScript, React.js e Node.js
-🤔 Estou procurando ajuda na plataforma Windows e Android
 📫 Como entrar em contato comigo: através do e-mail ferkusanagi@gmail.com
 ⚡ Curiosidade: Gosto de jogar Magic 🃏 e de se reunir com a família 
 
