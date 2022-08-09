@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="[https://now-playing-codestackr.vercel.app/api/spotify-playing](https://raw.githubusercontent.com/kittinan/spotify-github-profile/a020cc12ed9a2f5501bb302a1b7f386749a14f1d/img/novatorem.svg)" alt="codeSTACKr Spotify Playing" width="350" />]
+[<img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/a020cc12ed9a2f5501bb302a1b7f386749a14f1d/img/novatorem.svg" alt="codeSTACKr Spotify Playing" width="350" />]
 
 <br />
 
