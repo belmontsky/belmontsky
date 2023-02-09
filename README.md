@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Olá <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> 
-  <br> Sou o Daniel Fernando! Desenvolvedor Desktop 👨‍💻<br>
+  <br> Sou o Daniel Fernando! Desenvolvedor Fullstack 👨‍💻<br>
 
 🎓 Estudante de Computação - Universidade Estácio
 🔭 No momento trabalho com SQL Server, Delphi e .NET
