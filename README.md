@@ -1,11 +1,11 @@
 <h2 align="left">
  <abc>
   <br>Olá <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> 
-  <br> Sou o Daniel Fernando! Desenvolvedor Fullstack 👨‍💻<br>
+  <br> Sou o Daniel Fernando! Desenvolvedor Back-End 👨‍💻<br>
 
 🎓 Formado em Computação - Universidade Estácio
 🔭 No momento trabalho com .NET, SQL Server, Angular e JavaScript
-📚 Atualmente, estou aprendendo React.js e Node.js
+📚 Atualmente, estou aprendendo React e Ionic
 📫 Como entrar em contato comigo: através do e-mail ferkusanagi@gmail.com
 ⚡ Curiosidade: Gosto de jogar Magic 🃏 e de me reunir com a família 
 
