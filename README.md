@@ -4,8 +4,8 @@
   <br> Sou o Daniel Fernando! Desenvolvedor Back-End 👨‍💻<br>
 
 🎓 Formado em Computação - Universidade Estácio
-🔭 No momento trabalho com .NET, SQL Server, Angular e JavaScript
-📚 Atualmente, estou aprendendo React e Ionic
+🔭 No momento trabalho com .NET, Java, SQL Server, Angular e JavaScript
+📚 Atualmente, estou atuando também no front-end usando React e Ionic
 📫 Como entrar em contato comigo: através do e-mail ferkusanagi@gmail.com
 ⚡ Curiosidade: Gosto de jogar Magic 🃏 e de me reunir com a família 
 
