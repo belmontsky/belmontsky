@@ -6,7 +6,7 @@
 🎓 Formado em Computação - Universidade Estácio
 🔭 No momento trabalho com C# .NET, Java, SQL Server, Node.js
 📚 Atualmente, estou atuando também no front-end usando Angular, React e Ionic
-📫 Como entrar em contato comigo: através do e-mail ferkusanagi@gmail.com
+📫 Como entrar em contato comigo: através do e-mail danielfernandomo23@gmail.com
 ⚡ Curiosidade: Gosto de jogar Magic 🃏 e de me reunir com a família 
 
 
@@ -32,4 +32,4 @@
 
 ### Social:
 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 	<img alt="https://www.linkedin.com/in/daniel-fernando-belmont/" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="mailto:YourEmail@gmail.com">![danielfernandomo23@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 	<img alt="https://www.linkedin.com/in/daniel-fernando-belmont/" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
