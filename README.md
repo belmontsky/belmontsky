@@ -32,4 +32,6 @@
 
 ### Social:
 
-<a href="mailto:YourEmail@gmail.com">![danielfernandomo23@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 	<img alt="https://www.linkedin.com/in/daniel-fernando-belmont/" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<kusanagidl>)
+
+<a href="mailto:YourEmail@gmail.com">![danielfernandomo23@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<[LinkedInURL](https://www.linkedin.com/in/daniel-fernando-belmont/)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
