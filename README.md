@@ -11,7 +11,7 @@
 
 
 
-### AppleMusic Playing 🎧
+### Apple Music Playing 🎧
 
 <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/a020cc12ed9a2f5501bb302a1b7f386749a14f1d/img/novatorem.svg" alt="codeSTACKr Spotify Playing" width="350" />
 
