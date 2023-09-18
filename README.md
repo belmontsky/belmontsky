@@ -17,7 +17,7 @@
 
 <br />
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=belmontsky&show_icons=true&theme=radical)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
 <br />
 
